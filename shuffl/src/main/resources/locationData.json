@@ -1,0 +1,93 @@
+{
+  "locations":[
+  {
+    "coordinates": [
+      {
+        "latitude": 37.3943591850015,
+        "longitude": -122.08118994318407
+      },
+      {
+        "latitude": 37.39431787810604,
+        "longitude": -122.08121537078618
+      },
+      {
+        "latitude": 37.39430911439923,
+        "longitude": -122.08119281568709
+      },
+      {
+        "latitude": 37.3943504212902,
+        "longitude": -122.08116738807647
+      }
+    ],
+    "isOccupied": false
+  },
+  {
+    "coordinates": [
+      {
+        "latitude": 37.394345786882425,
+        "longitude": -122.08116884100808
+      },
+      {
+        "latitude": 37.394311508053484,
+        "longitude": -122.08119269864397
+      },
+      {
+        "latitude": 37.39430075693574,
+        "longitude": -122.08116822539061
+      },
+      {
+        "latitude": 37.394335035762204,
+        "longitude": -122.08114436775378
+      }
+    ],
+    "isOccupied": false
+  },
+
+    {"coordinates":
+    [
+      {"latitude":37.39424307212688,"longitude":-122.08118264516443},
+      {"latitude":37.39423008193536,"longitude":-122.08119169525618},
+      {"latitude":37.39424133399828,"longitude":-122.08121728310633},
+      {"latitude":37.394254324191756,"longitude":-122.08120823301765}
+    ],
+      "isOccupied":false
+    },
+    {"coordinates":
+    [
+      {"latitude":37.39432470543966,"longitude":-122.08115136505288},
+      {"latitude":37.394303322266644,"longitude":-122.08116687684478},
+      {"latitude":37.39429145557519,"longitude":-122.08114096016412},
+      {"latitude":37.39431283874045,"longitude":-122.08112544836975}
+    ],
+      "isOccupied":false
+    },
+    {"coordinates":
+    [
+      {"latitude":37.39427739304071,"longitude":-122.08130599859416},
+      {"latitude":37.394267708526804,"longitude":-122.08127115967326},
+      {"latitude":37.394287627397176,"longitude":-122.08126238729105},
+      {"latitude":37.394297311914315,"longitude":-122.08129722622296}
+    ],
+      "isOccupied":false
+    },
+    {"coordinates":
+    [
+      {"latitude":37.39436190970004,"longitude":-122.08117300873928},
+      {"latitude":37.39431632656001,"longitude":-122.08119285409461},
+      {"latitude":37.39432287862919,"longitude":-122.08121669725054},
+      {"latitude":37.394368461772984,"longitude":-122.08119685190708}
+    ],
+      "isOccupied":false
+    },
+    {"coordinates":
+    [
+      {"latitude":37.39435918853067,"longitude":-122.08117380644711},
+      {"latitude":37.39431408057437,"longitude":-122.08119430532375},
+      {"latitude":37.394306735402466,"longitude":-122.08116869795293},
+      {"latitude":37.394351843353746,"longitude":-122.08114819906025}
+    ],
+      "isOccupied":false
+    }
+  ]
+}
+
